@@ -2,15 +2,15 @@ import { useState, useEffect } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import headerImg from "../assets/img/header-img.svg";
-
+import gif from "../assets/img/astronut-gif.gif";
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const [text,setText] = useState('');
 
     const toRotate = ["Mobile Engineer","Software Engineer","Computer Geek"];
-    const [delta,setDelta] = useState(300-Math.random() * 100);
-    const period = 2000;
+    const [delta,setDelta] = useState(200-Math.random() * 10);
+    const period = 300;
 
     useEffect(() => {
         let ticker = setInterval( () =>{
@@ -36,7 +36,7 @@ export const Banner = () => {
         } else if (isDeleting && updateText === '') {
             setIsDeleting(false);
             setLoopNum(loopNum + 1);
-            setDelta(500);
+            setDelta(300);
         }
 
     }
@@ -48,11 +48,8 @@ export const Banner = () => {
                     <Col xs={12} md = {6} xl={7}>
                         <span className="tagline">Welcome stranger to my Portfolio</span>
                         <h1>{`Hello there, I'm `}<span className="wrap">{text}</span></h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue neque gravida in fermentum et. Odio ut sem nulla pharetra diam sit amet. Suscipit adipiscing bibendum est ultricies integer quis auctor elit. At lectus urna duis convallis convallis tellus.</p>
-                        <button onClick={() => console.log("Connect")}>Let's connect<ArrowRightCircle size={30} /></button>
-                    </Col>
-                    <Col xs={12} md = {6} xl={5}>
-                        <img src={headerImg} alt="Header Img" />
+                        <p>You have visited my Portfolio which I decided to make one not for a long time  ago to share my experiences and projects with recruiters. Furthermore, this portfolio will be a canvas for me to practice web development skills with different frameworks. Enjoy it - Khang Nguyen</p>
+                        <button  onClick={(e) => {e.preventDefault(); window.location.replace('/#connect');}}>Let's connect<ArrowRightCircle size={30} /></button>
                     </Col>
                 </Row>
             </Container>
