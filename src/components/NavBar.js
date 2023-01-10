@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import logo from '../assets/img/logo.svg';
 import navIcon1 from "../assets/img/nav-icon1.svg"
 import navIcon2 from "../assets/img/github.svg"
+import { Link } from 'react-bootstrap-icons';
 
 export const NavBar = () => {  
     const [activeLink,setActiveLink] = useState('');
@@ -47,9 +48,9 @@ export const NavBar = () => {
                         <a href='https://www.linkedin.com/in/khangnguyen23/' target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="LinkedIn"/></a>
                         <a href='https://github.com/DuyKhangTruong' target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="Github"/></a>
                     </div>
-                    <button className='vvd' onClick={(e) => {e.preventDefault(); window.location.replace('/#connect');
-                onUpdateActiveLink("connect")}}><span>Let's connect</span></button>
-
+                    {/* <button className='vvd' onClick={(e) => {e.preventDefault(); window.location.replace('/#connect');
+                onUpdateActiveLink("connect")}}><span>Let's connect</span></button> */}
+                 <button className='vvd'><span>Let's connect</span></button>
                 </span>
                 </Navbar.Collapse>
             </Container>
