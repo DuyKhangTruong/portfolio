@@ -50,7 +50,7 @@ export const NavBar = () => {
                     </div>
                     {/* <button className='vvd' onClick={(e) => {e.preventDefault(); window.location.replace('/#connect');
                 onUpdateActiveLink("connect")}}><span>Let's connect</span></button> */}
-                 <button className='vvd'><span>Let's connect</span></button>
+                    {/* <button className='vvd'><span>Let's connect</span></button> */}
                 </span>
                 </Navbar.Collapse>
             </Container>

@@ -39,7 +39,7 @@ export const Banner = () => {
                         <Col xs={12} md={6} xl={7}>
                             <p>You have visited my Portfolio which I decided to make one not for a long time  ago to share my experiences and projects with recruiters. Furthermore, this portfolio will be a canvas for me to practice web development skills with different frameworks. Enjoy it - Khang Nguyen</p>
                             {/* <button  onClick={(e) => {e.preventDefault(); window.location.replace('/#connect');}}>Let's connect<ArrowRightCircle size={30} /></button> */}
-                            <button>Let's connect<ArrowRightCircle size={30} /></button>
+                            {/* <button>Let's connect<ArrowRightCircle size={30} /></button> */}
                         </Col>
                     </Col>
                 </Row>
