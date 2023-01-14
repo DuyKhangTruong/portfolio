@@ -90,12 +90,13 @@ nav.navbar {
   z-index: 9999;
   transition:  0.32s ease-in-out;
 }
+
 nav.navbar.scrolled {
   padding: 0px 0;
   background-color: #121212;
 }
 nav.navbar a.navbar-brand {
-    width: 9%;
+    width: 13%;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
@@ -413,6 +414,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
+}
+.proj-imgbx a {
+  color: #FFFFFF;
 }
 .proj-imgbx::before {
   content: "";
