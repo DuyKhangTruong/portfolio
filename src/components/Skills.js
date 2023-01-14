@@ -36,7 +36,7 @@ export const Skills = () => {
                     <h2>
                         Skills
                     </h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br></br>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>The following is my tech stack either self-taught or from my internships<br></br>The list will update through my side projects.</p>
                     <Carousel responsive={responsive} infinite={true} autoPlay={true} autoPlaySpeed={2000} partialVisbile={false} className="skill-slider">
                         <div className="item">
                             <img src={swift} alt="Swift icon"/>

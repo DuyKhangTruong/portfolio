@@ -64,7 +64,7 @@ export const ExpProjects = () => {
                 <Row>
                     <Col>
                         <h2>Experiences & Projects</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br></br>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>The following is my internships from the past in software engineering<br></br>Each of the project has a github link to it.</p>
                         <TabContainer id="projects-tabs" defaultActiveKey="first">
                             <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                                 <Nav.Item>
