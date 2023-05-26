@@ -3,6 +3,7 @@ import { Row,Col, Container, TabContainer, Nav, TabContent, Tab } from "react-bo
 import alarmImg from "../assets/img/alarm-img.png";
 import quokka from "../assets/img/Quokka-img.png";
 import imsg from "../assets/img/imsg-img.png";
+import vectorworks from "../assets/img/vectorworks.png"
 import messageApp from "../assets/img/message-app.png";
 import weatherApp from "../assets/img/weather-app.png";
 import newsApp from "../assets/img/news-app.png";
@@ -15,6 +16,12 @@ import { ProjCard } from "./ProjCard";
 
 export const ExpProjects = () => {
     const experiences = [
+        {
+            title:"Software Engineer Intern",
+            company:"Vectorworks",
+            imgURL: vectorworks
+        },
+
         {
             title:"Software Engineer Intern",
             company: "Alarm.com",
