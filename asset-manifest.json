@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2e768663.css",
-    "main.js": "/portfolio/static/js/main.c04db438.js",
+    "main.js": "/portfolio/static/js/main.01462bcf.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/astronut-gif.gif": "/portfolio/static/media/astronut-gif.89c36e7a4c6481363e5e.gif",
     "static/media/ml-projects.png": "/portfolio/static/media/ml-projects.9c765d6cfeb014e1ed51.png",
@@ -14,6 +14,7 @@
     "static/media/imsg-img.png": "/portfolio/static/media/imsg-img.e3bb1833876513feba70.png",
     "static/media/news-app.png": "/portfolio/static/media/news-app.ebb6d5d9f35a0e9c828e.png",
     "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/ASU-img.png": "/portfolio/static/media/ASU-img.e6c53f31ad1f728f8e10.png",
     "static/media/weather-app.png": "/portfolio/static/media/weather-app.69a316a8f368786d7a08.png",
     "static/media/vectorworks.png": "/portfolio/static/media/vectorworks.fc5c0f988b02d75ece28.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -33,11 +34,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.2e768663.css.map": "/portfolio/static/css/main.2e768663.css.map",
-    "main.c04db438.js.map": "/portfolio/static/js/main.c04db438.js.map",
+    "main.01462bcf.js.map": "/portfolio/static/js/main.01462bcf.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e768663.css",
-    "static/js/main.c04db438.js"
+    "static/js/main.01462bcf.js"
   ]
 }
