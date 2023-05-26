@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2e768663.css",
+    "main.js": "/portfolio/static/js/main.c04db438.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/astronut-gif.gif": "/portfolio/static/media/astronut-gif.89c36e7a4c6481363e5e.gif",
+    "static/media/ml-projects.png": "/portfolio/static/media/ml-projects.9c765d6cfeb014e1ed51.png",
+    "static/media/astronaut-logo.png": "/portfolio/static/media/astronaut-logo.31f7ccc209c808ffbf87.png",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/contact-img.png": "/portfolio/static/media/contact-img.2103983f3aadc0c66310.png",
+    "static/media/Quokka-img.png": "/portfolio/static/media/Quokka-img.eb4105c1b3d60dc945d2.png",
+    "static/media/alarm-img.png": "/portfolio/static/media/alarm-img.b6ca3ecd813d8a63fb66.png",
+    "static/media/imsg-img.png": "/portfolio/static/media/imsg-img.e3bb1833876513feba70.png",
+    "static/media/news-app.png": "/portfolio/static/media/news-app.ebb6d5d9f35a0e9c828e.png",
+    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.69a316a8f368786d7a08.png",
+    "static/media/vectorworks.png": "/portfolio/static/media/vectorworks.fc5c0f988b02d75ece28.png",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/message-app.png": "/portfolio/static/media/message-app.c803cc63d9bf56f463fe.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/python-icon.svg": "/portfolio/static/media/python-icon.1af3fa7aa8754717430d218efba187eb.svg",
+    "static/media/reactjs-icon.svg": "/portfolio/static/media/reactjs-icon.0f7288a8c08e3d85f75b737e54cb00c7.svg",
+    "static/media/cplus-icon.svg": "/portfolio/static/media/cplus-icon.ca43e2c6fe259f90789c81b7ffd6b868.svg",
+    "static/media/swift-icon.svg": "/portfolio/static/media/swift-icon.9558f201cb94ecae3eecd6d0fa43b39c.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.e972a17dd31102bb36c8e17c007b91e8.svg",
+    "static/media/c-icon.svg": "/portfolio/static/media/c-icon.47e1b34cf7a85212bac1db88e2552f27.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.2e768663.css.map": "/portfolio/static/css/main.2e768663.css.map",
+    "main.c04db438.js.map": "/portfolio/static/js/main.c04db438.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e768663.css",
+    "static/js/main.c04db438.js"
+  ]
+}
